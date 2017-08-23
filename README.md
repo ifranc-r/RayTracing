@@ -1,7 +1,7 @@
 # RayTracer
 Ray tracing is a technique for generating an image by tracing the path of light as pixels in an image plane and simulating the effects of its encounters with virtual objects.
 
-<img height="300" weight="250" src= "http://www.sgidepot.co.uk/misc/scene_1024x768.jpg" />
+<img height="300" weight="250" src= "https://github.com/ifranc-r/RayTracing/blob/master/img.png" />
 
 ## Team Work
 - stmartin
