@@ -1,7 +1,7 @@
 # RayTracer
 Ray tracing is a technique for generating an image by tracing the path of light as pixels in an image plane and simulating the effects of its encounters with virtual objects.
 
-![](https://github.com/ifranc-r/RayTracing/edit/master/img.png)
+![Picture of the Ray tracer](https://github.com/ifranc-r/RayTracing/edit/master/img.png)
 
 ## Team Work
 - stmartin
@@ -27,7 +27,11 @@ Voici une piqure de rappel de git!
 make install
 
 ### Run
-./RT name_map.xml
+./RT path/name_map.xml
+Exemple :
+- ./RT scenes/Scene3.xml
+
+Test Maps are in the path "scenes/"
 
 ### Link
 - [RT Basic Tutorial by Dav Vador](http://dav.vador.raytracing.free.fr/tutorio/tuto1/index.html)
