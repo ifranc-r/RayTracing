@@ -5,7 +5,7 @@ project from 42.
 - stmartin
 - jeexpert
 - qhonore
--
+- ifranc-r
 
 ## Help:
 ### Git
