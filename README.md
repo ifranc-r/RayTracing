@@ -28,6 +28,7 @@ make install
 
 ### Run
 ./RT path/name_map.xml
+
 Exemple :
 - ./RT scenes/Scene3.xml
 
